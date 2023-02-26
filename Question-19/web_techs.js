@@ -1,0 +1,1 @@
+export const technology = ["Browsers", "HTML and CSS", "Frameworks", "Web Servers", "Databases", "Protocols"];
